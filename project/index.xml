@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hydro@UMass</title>
+    <link>https://hydro-umass.netlify.app/project/</link>
+      <atom:link href="https://hydro-umass.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://hydro-umass.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Developing a global assimilation and modeling framework to produce SWOT data products</title>
+      <link>https://hydro-umass.netlify.app/project/swot/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/project/swot/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://swot.jpl.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SWOT satellite mission&lt;/a&gt; will observe water surface elevation, slope, storage change (directly) and river discharge (indirectly) globally at unprecedented spatial resolutions and accuracies, potentially having a “transformational impact in terrestrial hydrology”. Although the SWOT data products of the aforementioned variables will be tremendously valuable they can be enhanced by combining with hydrologic and hydrodynamic models. In fact, there have been a few studies that have examined the value of  assimilating SWOT observations into hydrodynamic models to estimate river discharge or channel bathymetry. The primary advantage of using a data assimilation approach is the estimation of continuous fields of the SWOT-observed variables in both space and time. Moreover, data assimilation can be used to infer other variables (e.g. runoff) or optimize model parameters by accounting for model and observation errors. With this project we are developing a modeling and assimilation framework specifically for SWOT observations that could be used to generate Level 4 data products.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation and diagnosis of the National Water Model snow simulations</title>
+      <link>https://hydro-umass.netlify.app/project/nwm/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/project/nwm/</guid>
+      <description>&lt;p&gt;Snow accumulation and its melt dominate water resources in mountainous areas, with regions such as the western United States deriving more than 75% of the total freshwater available annually from snowmelt. Rain-on-snow floods, in some cases amplified by frozen soils, have been responsible for some of the largest recorded floods in the West, as well as the North Central
+States and the Northeast. Despite their importance snowpacks remain poorly quantified (especially, but not only, in topographically complex regions), leaving hydrological models such as the &lt;a href=&#34;https://water.noaa.gov/about/nwm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Water Model&lt;/a&gt; (NWM) poorly constrained with significant uncertainty in both their physical and statistical parameterizations. Remote sensing can alleviate some of these limitations and recently-produced datasets from optical satellite sensors have provided long-term and high-resolution maps of snow water equivalent (SWE). In this project, we will extend a satellite-derived SWE reanalysis (from Landsat, MODIS, and VIIRS) over the Continental United States (CONUS) and assess the representation of SWE in the NWM. Apart from directly evaluating the output of the NWM in terms of SWE, we will diagnose model errors and characterize them both statistically as well as in terms of the model parameterizations. The results from the diagnostic and sensitivity analyses will be used to derive error models and improved parameterizations for NWM that will be tested and compared with the baseline NWM version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring and forecasting drought and crop yield for the Lower Mekong Basin</title>
+      <link>https://hydro-umass.netlify.app/project/servir/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/project/servir/</guid>
+      <description>&lt;p&gt;Rice is Asia’s most important food crop with nearly 3 billion people reliant on rice as their major food source. Over the next ten years this number is expected to climb to nearly 4 billion people. Throughout Southeast Asia, the most important constraint to rice production is water stress, which affects nearly 10 million ha of upland rice and over 13 million ha of rain-fed lowland rice. Future climate change effects on rainfall timing and amount, and projected increases in temperature are expected to exacerbate existing water stresses and will have a direct impact on agriculture, especially rice cultivation. In a project funded by NASA and USAID through the &lt;a href=&#34;https://www.nasa.gov/mission_pages/servir/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SERVIR program&lt;/a&gt;, we are providing the SERVIR-Mekong hub with the modeling and data system tools needed to produce linked hydrologic and crop yield as nowcasts, forecasts and at climate scales using the best available data including NASA Earth observations. The effort aims to “improve, enrich, and expand the use of Earth observations” to help make informed decisions in order to adapt to and reduce vulnerabilities from impacts of extreme events and future climate change in the Lower Mekong.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
