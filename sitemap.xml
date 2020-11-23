@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hydro-umass.netlify.app/courses/cee692a/</loc>
+    <lastmod>2020-02-04T12:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hydro-umass.netlify.app/post/jupyter-hub/</loc>
     <lastmod>2020-01-20T16:35:29-05:00</lastmod>
   </url>
@@ -225,6 +230,11 @@
   <url>
     <loc>https://hydro-umass.netlify.app/publication/emery2020/</loc>
     <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hydro-umass.netlify.app/courses/</loc>
+    <lastmod>2020-02-04T12:32:00+00:00</lastmod>
   </url>
   
   <url>
