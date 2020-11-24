@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinchen He | Hydro@UMass</title>
+    <link>https://hydro-umass.netlify.app/author/xinchen-he/</link>
+      <atom:link href="https://hydro-umass.netlify.app/author/xinchen-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinchen He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
+      <title>Xinchen He</title>
+      <link>https://hydro-umass.netlify.app/author/xinchen-he/</link>
+    </image>
+    
+  </channel>
+</rss>
