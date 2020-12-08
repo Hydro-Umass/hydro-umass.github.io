@@ -5,12 +5,20 @@
     <link>https://hydro-umass.netlify.app/author/kostas-andreadis/</link>
       <atom:link href="https://hydro-umass.netlify.app/author/kostas-andreadis/index.xml" rel="self" type="application/rss+xml" />
     <description>Kostas Andreadis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
       <title>Kostas Andreadis</title>
       <link>https://hydro-umass.netlify.app/author/kostas-andreadis/</link>
     </image>
+    
+    <item>
+      <title>Combining big-data remote sensing and global hydrologic modelling improves daily discharge estimates across an entire large watershed</title>
+      <link>https://hydro-umass.netlify.app/publication/ishitsuka2020/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/publication/ishitsuka2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring the factors controlling the performance of the Surface Water and Ocean Topography mission discharge algorithms</title>
@@ -33,14 +41,6 @@
       <link>https://hydro-umass.netlify.app/publication/schumann2020/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://hydro-umass.netlify.app/publication/schumann2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining big-data remote sensing and global hydrologic modelling improves daily discharge estimates across an entire large watershed</title>
-      <link>https://hydro-umass.netlify.app/publication/ishitsuka2020/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hydro-umass.netlify.app/publication/ishitsuka2020/</guid>
       <description></description>
     </item>
     
