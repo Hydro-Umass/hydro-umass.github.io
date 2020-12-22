@@ -5,7 +5,7 @@
     <link>https://hydro-umass.netlify.app/</link>
       <atom:link href="https://hydro-umass.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Hydro@UMass</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
       <title>Hydro@UMass</title>
@@ -73,6 +73,14 @@ users (i.e. your students). Now we can have prepared Jupyter notebooks on the
 cloud, that each student can work on and go over the problems/answers from a
 single machine!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Does Drought Impact Rice Productivity over Cambodia in the Lower Mekong Basin?</title>
+      <link>https://hydro-umass.netlify.app/publication/abhishek2020/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/publication/abhishek2020/</guid>
+      <description></description>
     </item>
     
     <item>
