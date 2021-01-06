@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://hydro-umass.netlify.app/hatchard2021/</loc>
+    <loc>https://hydro-umass.netlify.app/publication/hatchard2021/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +54,11 @@
   
   <url>
     <loc>https://hydro-umass.netlify.app/publication_types/</loc>
+    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hydro-umass.netlify.app/publication/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,11 +104,6 @@
   
   <url>
     <loc>https://hydro-umass.netlify.app/author/nguyen-hanh-quyen/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hydro-umass.netlify.app/publication/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url>
   
