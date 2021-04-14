@@ -5,7 +5,7 @@
     <link>https://hydro-umass.netlify.app/</link>
       <atom:link href="https://hydro-umass.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Hydro@UMass</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
       <title>Hydro@UMass</title>
@@ -76,6 +76,14 @@ single machine!&lt;/p&gt;
     </item>
     
     <item>
+      <title>Probabilistic Evaluation of Drought in CMIP6 Simulations</title>
+      <link>https://hydro-umass.netlify.app/publication/papalexiou2021/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://hydro-umass.netlify.app/publication/papalexiou2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating small hydropower potential in data scarce catchments considering uncertainty in satellite rainfall data</title>
       <link>https://hydro-umass.netlify.app/publication/hatchard2021/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
@@ -88,14 +96,6 @@ single machine!&lt;/p&gt;
       <link>https://hydro-umass.netlify.app/publication/abhishek2020/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://hydro-umass.netlify.app/publication/abhishek2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Evaluation of Drought in CMIP6 Simulations</title>
-      <link>https://hydro-umass.netlify.app/publication/papalexiou2021/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://hydro-umass.netlify.app/publication/papalexiou2021/</guid>
       <description></description>
     </item>
     
