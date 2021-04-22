@@ -345,11 +345,15 @@
   </url><url>
     <loc>https://hydro-umass.netlify.app/categories/</loc>
   </url><url>
+    <loc>https://hydro-umass.netlify.app/tag/floods/</loc>
+  </url><url>
     <loc>https://hydro-umass.netlify.app/author/heejun-park/</loc>
   </url><url>
     <loc>https://hydro-umass.netlify.app/author/kwan-hyuck-kim/</loc>
   </url><url>
     <loc>https://hydro-umass.netlify.app/talk/</loc>
+  </url><url>
+    <loc>https://hydro-umass.netlify.app/project/flooding/</loc>
   </url><url>
     <loc>https://hydro-umass.netlify.app/author/xinchen-he/</loc>
   </url>
