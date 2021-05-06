@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simon Papalexiou | Hydro@UMass</title>
-    <link>https://hydro-umass.netlify.app/author/simon-papalexiou/</link>
-      <atom:link href="https://hydro-umass.netlify.app/author/simon-papalexiou/index.xml" rel="self" type="application/rss+xml" />
-    <description>Simon Papalexiou</description>
+    <title>Francisco Tapiador | Hydro@UMass</title>
+    <link>https://hydro-umass.netlify.app/author/francisco-tapiador/</link>
+      <atom:link href="https://hydro-umass.netlify.app/author/francisco-tapiador/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco Tapiador</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hydro-umass.netlify.app/images/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_2.png</url>
-      <title>Simon Papalexiou</title>
-      <link>https://hydro-umass.netlify.app/author/simon-papalexiou/</link>
+      <title>Francisco Tapiador</title>
+      <link>https://hydro-umass.netlify.app/author/francisco-tapiador/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://hydro-umass.netlify.app/publication/pradhan2021/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://hydro-umass.netlify.app/publication/pradhan2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Evaluation of Drought in CMIP6 Simulations</title>
-      <link>https://hydro-umass.netlify.app/publication/papalexiou2021/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://hydro-umass.netlify.app/publication/papalexiou2021/</guid>
       <description></description>
     </item>
     
