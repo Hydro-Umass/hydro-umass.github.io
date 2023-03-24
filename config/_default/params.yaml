@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: umass
+  theme_night: umass
+  font: minimal
   font_size: L
 
 # SEO
@@ -18,14 +18,11 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'UMass Amherst Computational Hydrology Research Group'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
   verification:
     google: ''
-    baidu: ''
 
 # Site header
 
@@ -43,9 +40,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -70,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Hydro-Umass/website'
     content_dir: content
     branch: main
   avatar:
