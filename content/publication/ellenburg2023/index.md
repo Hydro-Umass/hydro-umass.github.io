@@ -9,7 +9,7 @@ authors:
 - Narendra Das
 - kostas
 - Ashutosh Limaye
-date: "2023-07-01T00:00:00Z"
+date: "2023-06-23T00:00:00Z"
 doi: ""
 publication_types: ["3"]
 publication: "*Agricultural Systems*"
