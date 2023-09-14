@@ -15,7 +15,7 @@ We're always interested in recruiting talented and motivated individuals to join
 {{% callout note %}}
 Postdoctoral researcher position available for the Future of Aquatic Flows project on Machine Learning and Hydrology.
 
-There is no formal deadline and applications will be reviewed until the position is filled, see details [here](foaf_postdoc_ad.pdf).
+There is no formal deadline and applications will be reviewed until the position is filled, see details [here](uploads/foaf_postdoc_ad.pdf).
 {{% /callout %}}
 
 We will advertise any specific opportunities for graduate students or postdoctoral researchers on this page, but if you are interested in contacting us about joining the group we ask that you prepare a short letter and email to [Dr. Andreadis](mailto:kandread@umass.edu). The letter should contain:
