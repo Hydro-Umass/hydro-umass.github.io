@@ -5,8 +5,8 @@ authors:
 - kostas
 - Fiachra O'Loughlin
 date: "2023-11-19T00:00:00Z"
-publication_types: ["3"]
 doi: ""
+publication_types: ["3"]
 publication: "*Advances in Water Resources*"
 
 featured: true

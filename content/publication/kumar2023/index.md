@@ -7,8 +7,8 @@ authors:
 - Xinchen He
 - Caitlyn Butler
 date: "2023-11-18T00:00:00Z"
-publication_types: ["3"]
 doi: ""
+publication_types: ["3"]
 publication: "*Journal of Environmental Management*"
 
 featured: true
