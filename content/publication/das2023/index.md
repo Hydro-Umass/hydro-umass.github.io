@@ -13,7 +13,7 @@ authors:
 date: "2023-11-10T00:00:00Z"
 doi: ""
 publication_types: ["3"]
-publication: "*Water Resources Research*"
+publication: "*Environmental Modeling & Software*"
 
 featured: true
 
