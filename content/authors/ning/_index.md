@@ -7,7 +7,7 @@ role: Graduate Student
 organizations:
 - name: University of Massachusetts Amherst
   url: ""
-  
+
 bio: ""
 
 education:
@@ -15,14 +15,14 @@ education:
     - course: MS in Hydraulics and River Dynamics
       institution: Dalian University of Technology
       year: 2021
-      
+
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ningyang@umass.edu'
-  
+
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Ning Yang is a Ph.D. student in Civil and Environmental Engineering at the University of Massachusetts Amherst. He earned his Bachelor degree (2013)
