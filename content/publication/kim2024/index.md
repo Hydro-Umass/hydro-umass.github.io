@@ -7,7 +7,7 @@ authors:
 date: "2023-11-19T00:00:00Z"
 doi: ""
 publication_types: ["3"]
-publication: "*Advances in Water Resources*"
+publication: "*Journal of Hydrology*"
 
 featured: true
 
