@@ -9,7 +9,7 @@ authors:
 date: "2022-08-20T00:00:00Z"
 doi: "10.1109/LGRS.2022.3184177"
 
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*IEEE Geoscience and Remote Sensing Letters*"
 publication_short: "IEEE Geosci. Remote Sens. Lett."
 

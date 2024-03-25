@@ -12,7 +12,7 @@ authors:
 - Perry Oddo
 date: "2023-11-10T00:00:00Z"
 doi: ""
-publication_types: ["3"]
+publication_types: ["article"]
 publication: "*Environmental Modeling & Software*"
 
 featured: true

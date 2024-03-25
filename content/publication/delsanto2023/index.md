@@ -8,7 +8,7 @@ authors:
 date: "2023-08-09T00:00:00Z"
 doi: "10.3390/w15152813"
 
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Water*"
 publication_short: "Water"
 

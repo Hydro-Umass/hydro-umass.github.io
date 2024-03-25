@@ -7,7 +7,7 @@ authors:
 - kostas
 date: "2019-04-24T00:00:00Z"
 doi: "10.3390/rs11080982"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Remote Sensing*"
 publication_short: "Remote Sens."
 

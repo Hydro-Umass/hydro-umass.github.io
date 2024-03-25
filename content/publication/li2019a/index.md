@@ -8,7 +8,7 @@ authors:
 - kostas
 date: "2019-04-26T00:00:00Z"
 doi: "10.1175/JHM-D-18-0210.1"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "**Journal of Hydrometeorology**"
 publication_short: "J. Hydrometeorol."
 

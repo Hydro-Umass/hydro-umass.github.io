@@ -11,7 +11,7 @@ authors:
 - Perry Oddo
 date: "2023-08-08T00:00:00Z"
 doi: ""
-publication_types: ["3"]
+publication_types: ["article"]
 publication: "*Hydrology and Earth System Sciences*"
 
 featured: true

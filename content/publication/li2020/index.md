@@ -7,7 +7,7 @@ authors:
 - Dennis Leettenmaier
 date: "2020-04-28T00:00:00Z"
 doi: "10.1029/2019WR026999"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "Water Resources Research"
 publication_short: "Water Resour. Res."
 

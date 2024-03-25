@@ -10,7 +10,7 @@ authors:
 date: "2022-09-23T00:00:00Z"
 doi: "10.1088/1748-9326/ac9197"
 
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Environmental Research Letters*"
 publication_short: "Environ. Res. Lett."
 

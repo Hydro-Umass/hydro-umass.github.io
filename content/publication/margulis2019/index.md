@@ -9,7 +9,7 @@ authors:
 - kostas
 date: "2019-05-02T00:00:00Z"
 doi: "10.1029/2019GL082507"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "**Geophysical Research Letters**"
 publication_short: "Geophys. Res. Lett."
 

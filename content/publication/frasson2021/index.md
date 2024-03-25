@@ -9,7 +9,7 @@ authors:
 - Craig Brinkerhoff
 date: "2021-06-21T00:00:00Z"
 doi: "0.1029/2020WR028519"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Water Resources Research*"
 publication_short: "Water Resour. Res."
 

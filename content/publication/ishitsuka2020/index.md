@@ -12,7 +12,7 @@ authors:
 - kostas
 date: "2020-12-07T00:00:00Z"
 doi: "10.1029/2020WR027794"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Water Resources Research*"
 publication_short: "Water Resour. Res."
 

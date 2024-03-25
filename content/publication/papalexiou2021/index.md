@@ -9,7 +9,7 @@ authors:
 - Kevin Trenberth
 date: "2021-09-25T00:00:00Z"
 doi: "10.1029/2021EF002150"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Earths Future*"
 featured: false
 

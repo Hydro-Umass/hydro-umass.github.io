@@ -6,7 +6,7 @@ authors:
 - Colin Gleason
 date: "2020-05-12T00:00:00Z"
 doi: "10.1029/2019WR026611"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Water Resources Research*"
 publication_short: "Water Resour. Res."
 

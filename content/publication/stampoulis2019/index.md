@@ -16,7 +16,7 @@ authors:
 - Zhen Liu
 date: "2019-06-01T00:00:00Z"
 doi: "10.1016/j.advwatres.2019.04.004"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "**Advances in Water Resources**"
 publication_short: "Adv. Water Resour."
 

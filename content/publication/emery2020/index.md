@@ -13,7 +13,7 @@ authors:
 - Matthew Rodell
 date: "2020-03-12T00:00:00Z"
 doi: "https://doi.org/10.1175/JHM-D-19-0084.1"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Journal of Hydrometeorology*"
 publication_short: "J. Hydrometeor."
 

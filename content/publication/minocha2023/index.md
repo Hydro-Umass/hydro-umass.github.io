@@ -13,7 +13,7 @@ authors:
 - Perry Oddo
 date: "2023-06-20T00:00:00Z"
 doi: ""
-publication_types: ["3"]
+publication_types: ["article"]
 publication: "*Geoscientific Model Development*"
 
 featured: true

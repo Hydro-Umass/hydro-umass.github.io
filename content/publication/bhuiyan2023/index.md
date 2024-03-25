@@ -7,7 +7,7 @@ authors:
 - Richard Palmer
 date: "2023-01-31T00:00:00Z"
 doi: ""
-publication_types: ["3"]
+publication_types: ["article"]
 publication: "*Journal of Water Resources Planning and Management*"
 
 featured: true

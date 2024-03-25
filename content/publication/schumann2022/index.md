@@ -7,7 +7,7 @@ authors:
 - kostas
 date: "2022-02-18T00:00:00Z"
 doi: ""
-publication_types: ["6"]
+publication_types: ["chapter"]
 publication: "Congo Basin Hydrology,Climate, and Biogeochemistry: A Foundation for the Future"
 publication_short: "AGU Monograph"
 

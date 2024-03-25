@@ -23,6 +23,7 @@ social:
 
 user_groups:
 - Alumni
+
 ---
 
 Ning Yang is a Ph.D. student in Civil and Environmental Engineering at the University of Massachusetts Amherst. He earned his Bachelor degree (2013)

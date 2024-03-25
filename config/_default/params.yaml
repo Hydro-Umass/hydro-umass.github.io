@@ -1,14 +1,14 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: umass
-  theme_night: umass
-  font: minimal
+  theme_day: minimal
+  theme_night: minimal
+  font: native
   font_size: L
 
 # SEO
@@ -18,11 +18,16 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'UMass Amherst Computational Hydrology Research Group'
+    description: 'Computational Hydrology Research Group.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
+    baidu: ''
 
 # Site header
 
@@ -40,9 +45,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}'
+    notice: '© {2024} Kostas Andreadis.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -62,12 +67,14 @@ features:
     extra_languages:
       - r
       - latex
+      - python
+      - julia
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Hydro-Umass/website'
+    url: 'https://github.com/Hydro-Umass/hydro-umass.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -100,7 +107,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:

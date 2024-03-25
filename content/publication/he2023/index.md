@@ -8,7 +8,7 @@ authors:
 - Caitlyn Butler
 date: "2023-11-01T00:00:00Z"
 doi: "10.1016/j.jenvman.2023.118744"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Journal of Environmental Management*"
 publication_short: "J. Environ. Manag."
 

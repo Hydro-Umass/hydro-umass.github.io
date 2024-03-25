@@ -8,7 +8,7 @@ authors:
 date: "2021-10-21T00:00:00Z"
 doi: "10.1061/(ASCE)WR.1943-5452.0001414"
 
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Journal of Water Resources, Planning and Management*"
 publication_short: "J. Water Resour. Plan. Manag."
 

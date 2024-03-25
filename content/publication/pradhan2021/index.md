@@ -14,7 +14,7 @@ authors:
 - Martin Hanel
 date: "2021-11-01T00:00:00Z"
 doi: "10.1016/j.rse.2021.112754"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Remote Sensing of Environment*"
 publication_short: "Remote Sens. Environ."
 
