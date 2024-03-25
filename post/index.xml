@@ -1,32 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | Hydro@UMass</title><link>https://hydro-umass.github.io/post/</link><atom:link href="https://hydro-umass.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 16:35:29 -0500</lastBuildDate><image><url>https://hydro-umass.github.io/media/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_3.png</url><title>Latest News</title><link>https://hydro-umass.github.io/post/</link></image><item><title>Deploying JupyterHub on the Cloud</title><link>https://hydro-umass.github.io/post/jupyter-hub/</link><pubDate>Mon, 20 Jan 2020 16:35:29 -0500</pubDate><guid>https://hydro-umass.github.io/post/jupyter-hub/</guid><description>&lt;p>I&amp;rsquo;m teaching a class on computational methods for environmental engineers this
-semester, and the language of choice is Python as it is simple enough for
-potentially novice programmers and has a very rich ecosystem of existing
-libraries that make life easier for any environmental engineer/scientist. As I
-have taught the class once before, I emphasized reproducibility which meant that
-we used Jupyter notebooks for most of the class. The other aspect of the class
-that I found tremendously useful was live coding. Thankfully, the &lt;a href="https://github.com/damianavila/RISE" target="_blank" rel="noopener">RISE extension&lt;/a>
-combines Jupyter notebooks with slideshows (powered by &lt;a href="https://revealjs.com/#/" target="_blank" rel="noopener">Reveal.js&lt;/a> presentation
-framework) and I ended up using it exclusively for preparing the lectures.&lt;/p>
-&lt;p>Although a good chunk of the class was spent with the students coding on their
-own with me going around answering questions, I decided to take it a step
-further by utilizing a &lt;a href="https://en.wikipedia.org/wiki/Flipped%5Fclassroom" target="_blank" rel="noopener">flipped classroom&lt;/a> approach and combining it with
-paired/grouped learning. Essentially the students go over some lecture material
-prior to class, and we spend most of the lecture time explaining anything
-that the students had trouble but leave enough time for groups of students to
-solve a coding problem (relevant to the lecture material of course). The last
-part of the lecture is spent going over the answers of each student group and
-answering any questions. This presents a technology issue: it would be too much
-of a hassle to connect each student&amp;rsquo;s laptop to the projector in order to show
-their answers to the entire class. The answer would be to set up a server where
-the students can connect and solve the problem in Jupyter notebooks on the
-server. &lt;a href="https://jupyter.org/hub" target="_blank" rel="noopener">Jupyter Hub&lt;/a> would be the solution, but I didn&amp;rsquo;t want to have all the
-students connect to my laptop.&lt;/p>
-&lt;p>Here&amp;rsquo;s where the &lt;a href="https://github.com/jupyterhub/the-littlest-jupyterhub" target="_blank" rel="noopener">the Littlest JupyterHub (TLJH)&lt;/a> comes in, which is a
-distribution that helps you provide Jupyter Notebooks to 1-50 users on a single
-server (hosted on a cloud provider potentially). In this post, I will document
-how I set up TLJH on the Google Cloud.&lt;/p>
-&lt;p>The first step involves logging in to the &lt;a href="https://console.cloud.google.com/" target="_blank" rel="noopener">Google Cloud Console&lt;/a> and creating a
-new VM instance. You can keep the default options except for:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Hydro@UMass</title><link>https://hydro-umass.github.io/post/</link><atom:link href="https://hydro-umass.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://hydro-umass.github.io/media/icon_hu7bf4dc0a2f2b0b6f2de776cdc877e948_11369_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://hydro-umass.github.io/post/</link></image><item><title>Deploying JupyterHub on the Cloud</title><link>https://hydro-umass.github.io/post/20-01-20-jupyter-hub/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://hydro-umass.github.io/post/20-01-20-jupyter-hub/</guid><description>&lt;p>I&amp;rsquo;m teaching a class on computational methods for environmental engineers this semester, and the language of choice is Python&lt;/p>
+&lt;p>as it is simple enough for potentially novice programmers and has a very rich ecosystem of existing libraries that make life easier for any environmental engineer/scientist. As I have taught the class once before, I emphasized reproducibility which meant that
+we used Jupyter notebooks for most of the class. The other aspect of the class that I found tremendously useful was live coding. Thankfully, the &lt;a href="https://github.com/damianavila/RISE" target="_blank" rel="noopener">RISE extension&lt;/a> combines Jupyter notebooks with slideshows (powered by &lt;a href="https://revealjs.com/#/" target="_blank" rel="noopener">Reveal.js&lt;/a> presentation framework) and I ended up using it exclusively for preparing the lectures.&lt;/p>
+&lt;p>Although a good chunk of the class was spent with the students coding on their own with me going around answering questions, I decided to take it a step further by utilizing a &lt;a href="https://en.wikipedia.org/wiki/Flipped%5Fclassroom" target="_blank" rel="noopener">flipped classroom&lt;/a> approach and combining it with paired/grouped learning. Essentially the students go over some lecture material prior to class, and we spend most of the lecture time explaining anything that the students had trouble but leave enough time for groups of students to solve a coding problem (relevant to the lecture material of course). The last part of the lecture is spent going over the answers of each student group and answering any questions. This presents a technology issue: it would be too much of a hassle to connect each student&amp;rsquo;s laptop to the projector in order to show
+their answers to the entire class. The answer would be to set up a server where the students can connect and solve the problem in Jupyter notebooks on the server. &lt;a href="https://jupyter.org/hub" target="_blank" rel="noopener">Jupyter Hub&lt;/a> would be the solution, but I didn&amp;rsquo;t want to have all the students connect to my laptop.&lt;/p>
+&lt;p>Here&amp;rsquo;s where the &lt;a href="https://github.com/jupyterhub/the-littlest-jupyterhub" target="_blank" rel="noopener">the Littlest JupyterHub (TLJH)&lt;/a> comes in, which is a distribution that helps you provide Jupyter Notebooks to 1-50 users on a single server (hosted on a cloud provider potentially). In this post, I will document how I set up TLJH on the Google Cloud.&lt;/p>
+&lt;p>The first step involves logging in to the &lt;a href="https://console.cloud.google.com/" target="_blank" rel="noopener">Google Cloud Console&lt;/a> and creating a new VM instance. You can keep the default options except for:&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>Change the Boot Disk image from &lt;code>Debian GNU/Linux 9 (Stretch)&lt;/code> to &lt;code>Ubuntu 18.04 LTS&lt;/code>&lt;/p>
@@ -51,4 +29,4 @@ the external IP of your VM (without the ~ &lt;a href="https://" target="_blank" 
 server. If you click on the &lt;code>Control Panel&lt;/code> and the &lt;code>Admin&lt;/code> link, you can add
 users (i.e. your students). Now we can have prepared Jupyter notebooks on the
 cloud, that each student can work on and go over the problems/answers from a
-single machine!&lt;/p></description></item><item><title>Hello world!</title><link>https://hydro-umass.github.io/post/hello-world/</link><pubDate>Sun, 19 Jan 2020 21:46:00 +0000</pubDate><guid>https://hydro-umass.github.io/post/hello-world/</guid><description>&lt;p>Every blog starts with one of these. Right?&lt;/p></description></item></channel></rss>
+single machine!&lt;/p></description></item><item><title>Hello world!</title><link>https://hydro-umass.github.io/post/20-01-19-hello-world/</link><pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate><guid>https://hydro-umass.github.io/post/20-01-19-hello-world/</guid><description>&lt;p>Every blog starts with one of these. Right?&lt;/p></description></item></channel></rss>
