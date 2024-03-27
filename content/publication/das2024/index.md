@@ -1,6 +1,5 @@
 ---
-title: "ResORR: A Globally Scalable and Satellite
-Data-driven Algorithm for River Flow Regulation due to Reservoir Operations"
+title: "ResORR: A Globally Scalable and Satellite Data-driven Algorithm for River Flow Regulation due to Reservoir Operations"
 authors:
 - Pritam Das
 - Faisal Hossain

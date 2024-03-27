@@ -113,7 +113,7 @@ sections:
       order: desc
       page_type: news
     design:
-      view: card
+      view: compact
       columns: '1'
 
   - block: collection
