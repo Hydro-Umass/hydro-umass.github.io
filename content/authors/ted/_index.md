@@ -1,9 +1,6 @@
 ---
 title: Ted Langhorst
 
-authors:
-    - kwanhyuck
-
 superuser: false
 role: Post-doctoral Researcher
 
@@ -29,9 +26,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tlanghorst@umass.edu'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IltBbpcAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tedlanghorst
+
 
 user_groups:
 - Researchers
