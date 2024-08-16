@@ -11,13 +11,13 @@ organizations:
 bio: ""
 
 education:
-	courses:
-	- course: PhD in Landscape and Environmental Engineering
-	  institution: University of Life Sciences Prague
-	  year: 2024
-	- course: M.S. in Environmental Science
-	  institution: Central University of Rajasthan
-	  year: 2016
+  courses:
+  - course: PhD in Landscape and Environmental Engineering
+    institution: University of Life Sciences Prague
+    year: 2024
+  - course: MS in Environmental Science
+    institution: Central University of Rajasthan
+    year: 2016
 
 social:
 - icon: envelope
