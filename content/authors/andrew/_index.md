@@ -2,7 +2,7 @@
 title: Andrew Colcord
 
 authors:
-	- andrew
+    - andrew
 
 superuser: false
 role: Graduate Student
@@ -14,10 +14,10 @@ organizations:
 bio: ""
 
 education:
-	courses:
-	- course: BS in Civil & Environmental Engineering
-	  institution: University of Massachusetts Amherst
-	  year: 2022
+    courses:
+    - course: BS in Civil & Environmental Engineering
+      institution: University of Massachusetts Amherst
+      year: 2022
 
 social:
 - icon: envelope
