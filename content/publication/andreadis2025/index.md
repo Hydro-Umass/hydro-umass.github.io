@@ -1,5 +1,5 @@
 ---
-title: "A first look at river discharge from SWOT satellite observations"
+title: "A first look at river discharge estimation from SWOT satellite observations"
 authors:
 - kostas
 - Steve Coss
@@ -8,13 +8,16 @@ authors:
 - Travis Simmons
 - Nikki Tebaldi
 - et al.
-date: "2024-05-03T00:00:00Z"
-doi: ""
-publication_types: ["article"]
+date: "2025-05-03T00:00:00Z"
+doi: "10.1029/2024GL114185"
+publication_types: ["article-journal"]
 publication: "*Geophysical Research Letters*"
 
-featured: true
+abstract: "The Surface Water and Ocean Topography (SWOT) satellite has the potential to transform global hydrologic science by offering simultaneous and synoptic estimates of river discharge and other hydraulic variables. Discharge is estimated from SWOT observations of water surface elevation, width, and slope. A first assessment using just the highest quality SWOT measurements, over the first 15 months (March 2023–July 2024) of the mission evaluated at 65 gauged reaches shows results consistent with pre-launch expectations. SWOT estimates track discharge dynamics without relying on any gauge information: median correlation is 0.73, with a correlation interquartile range of 0.51–0.89. SWOT estimates capture discharge magnitude correctly in some cases but are biased (median bias is 50%) in others. There are already a total of 11,274 ungauged global locations with highest quality SWOT measurements where SWOT discharge is expected to accurately track discharge variations: this value will increase as SWOT data record length grows, algorithms are refined and SWOT measurements are reprocessed. This first look indicates that SWOT discharge is performing as expected for SWOT data that achieve performance requirements, providing observed information on discharge variations in ungauged basins globally."
 
-abstract: "The SWOT satellite has the potential to transform global hydrologic science by offering simultaneous and synoptic estimates of river discharge and other hydraulic variables. Here, we present the first discharge estimates from SWOT during the initial orbital configuration of the mission. A preliminary accuracy assessment from April of 2023 shows results consistent with pre-launch expectations: SWOT discharge can track dynamics without any gauge information. It captures discharge magnitude correctly in some cases but has bias in others. Correlations in a set of representative cases of SWOT performance ranged from 0.42 to 0.89, while the normalized root mean squared error was between 4.6% and 67.5%. Although we were very limited in the selection of river reaches, the feasibility of estimating river discharge from SWOT and these promising initial results are encouraging. As SWOT data are improved by reprocessing, we argue that the outlook for SWOT discharge is bright."
+links:
+- name: Link
+  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL114185
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024GL114185
 
 ---
