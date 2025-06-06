@@ -25,7 +25,7 @@ social:
   link: 'mailto:sgmatthews@umass.edu'
 
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Sarah is pursuing a Bachelor of Science in Civil Engineering at the University of Massachusetts, Amherst. At UMass, she is the assistant

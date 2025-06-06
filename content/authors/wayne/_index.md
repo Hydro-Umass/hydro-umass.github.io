@@ -25,7 +25,7 @@ social:
   link: 'mailto:wsimon@umass.edu'
 
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Wayne is pursuing a Bachelors of Science in Applied Mathematics at the University of Massachusetts Amherst. He is interested in physical oceanography, specifically related to large scale ocean circulation and climate change. Wayne is currently assisting in research related to modeling the impacts of human water use on surface water dynamics based on satellite data.
