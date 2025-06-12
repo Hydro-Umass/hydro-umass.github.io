@@ -6,7 +6,7 @@ last_name: Andreadis
 
 superuser: true
 
-role: Assistant Professor
+role: Associate Professor
 
 organizations:
 - name: University of Massachusetts Amherst

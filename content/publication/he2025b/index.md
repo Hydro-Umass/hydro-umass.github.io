@@ -7,7 +7,7 @@ authors:
 date: "2025-05-20T00:00:00Z"
 doi: ""
 publication_types: ["article"]
-publication: "*Remote Sensing of Environment*"
+publication: "*Water Resources Research*"
 
 featured: true
 

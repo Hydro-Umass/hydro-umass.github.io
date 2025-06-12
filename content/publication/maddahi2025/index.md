@@ -8,7 +8,7 @@ authors:
 date: "2025-05-28T00:00:00Z"
 doi: ""
 publication_types: ["article"]
-publication: "*Journal of Hydrology*"
+publication: "*Journal of Hydrometeorology*"
 
 featured: true
 
