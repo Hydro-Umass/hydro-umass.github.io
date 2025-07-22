@@ -42,7 +42,7 @@ authors:
 - kostas
 - Nicolas Picot
 - Jerome Bienveniste
-date: "2025-01-07T00:00:00Z"
+date: "2025-07-22T00:00:00Z"
 doi: "10.1029/2024RG000871"
 publication_types: ["article-journal"]
 publication: "*Reviews of Geophysics*"
