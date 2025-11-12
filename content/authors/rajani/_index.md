@@ -32,7 +32,7 @@ social:
 
 
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Rajani is a postdoctoral researcher at the UMass Amherst, using machine learning to make future

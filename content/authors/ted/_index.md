@@ -35,7 +35,7 @@ social:
 
 
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Ted is a postdoctoral researcher at the UMass Amherst using deep learning to better estimate sediment flux in rivers. Ted grew up in Columbus, Ohio, just a few miles from Ohio State's campus where he got a B.S. in Geophysics. He started research as an undergraduate by building a hydrodynamic model of the Olentangy River, a small, urban stream that flows through the city. A few years later, he started a Masters and PhD at the University of North Carolina at Chapel Hill working on large rivers all over the world using field methods and decades of satellite images to measure long-term river bank migration and suspended sediment fluxes.
