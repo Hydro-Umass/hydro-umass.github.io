@@ -1,7 +1,7 @@
 ---
 title: "Geometric Controls on SWOT Water Surface Elevation Measurement in Urban Rivers: Cross-Track Position and Along-Track Flow Angle"
 authors:
-- kwan-huyck
+- kwanhyuck
 - Colin Gleason
 - kostas
 - Fiona Bennitt
